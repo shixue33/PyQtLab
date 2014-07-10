@@ -1,8 +1,9 @@
 PyQtLab
 =======
 
-PyQt实验室,打造各种高端GUI
+PyQt实验室
+研究桌面客户端GUI
 
-ShowTime
+扁平化风格-无边框实现拖动等事件
 ========
 ![github logo](dragwindow.png)
